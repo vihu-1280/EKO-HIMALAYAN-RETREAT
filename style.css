@@ -1,0 +1,19 @@
+marquee{
+    color: white;
+    background-color: gray;
+}
+body{
+    text-align: center;
+    color: gray;
+}
+#name{
+    color: white;
+}
+#contact{
+    background-color: gray;
+    color: whitesmoke;
+}
+#copy{
+    background-color: gray;
+    color: whitesmoke;
+}
